@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace AtelierTomato.ImmersionTracker
+{
+    public class program
+    {
+        public int main()
+        {
+
+
+         Console.WriteLine("Hello, World!");
+            return 0;
+        }
+
+    }
+}
+
